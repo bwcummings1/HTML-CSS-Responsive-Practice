@@ -1,0 +1,53 @@
+
+
+/* General Styles */
+html{
+    font-size: 62.5%; /* default browser font-size is 16 px, this makes it so that 1 rem == 10 px (easier math) it also gives the user control over bumping up or down the font size because % is a scalable unit of measurement */
+}
+body{
+    font-size: 1.6rem;
+    line-height: 1.5;
+    color: #4f4f4f;
+    background-color: #fbfffb;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+a{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-decoration: none;
+    color: #266035;
+}
+
+h1, h2, h3{
+    font-family: 'Oxygen', sans-serif;
+    color: #266035;
+}
+
+h1{
+
+}
+h2{
+
+}
+h3{
+
+}
+
+/* Header Section Styles */
+
+nav{
+
+}
+
+.logo{
+
+}
+
+.logo img{
+
+}
+
+.links{
+
+    
+}
